@@ -1,0 +1,15 @@
+{
+    "wallet_balance": "Wallet Balance: ₹0.00",
+    "home": "Home",
+    "profile": "Profile",
+    "wallet_history": "Wallet History",
+    "cash_collection": "Cash Collection",
+    "delete_account": "Delete Account",
+    "change_language": "Change Language",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms & Conditions",
+    "logout": "Logout",
+    "logout_confirmation": "Are you sure you want to logout?",
+    "cancel": "Cancel"
+  }
+  

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157055624033",
+    "project_id": "esupplycodelivary",
+    "storage_bucket": "esupplycodelivary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157055624033:android:cc10ae4debfbc2aaaedb20",
+        "android_client_info": {
+          "package_name": "com.example.delivery_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2d19yupQ_sQHLIfkJ8mawcO-3hQt5Xw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
